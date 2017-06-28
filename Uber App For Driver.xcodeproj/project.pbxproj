@@ -270,6 +270,7 @@
 				TargetAttributes = {
 					0EFF551F1F011436001117CF = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = EL32Q32JDW;
 						ProvisioningStyle = Automatic;
 					};
 					0EFF55331F011436001117CF = {
@@ -544,6 +545,7 @@
 			baseConfigurationReference = 441CCDEA00FFFD26BE752766 /* Pods-Uber App For Driver.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = EL32Q32JDW;
 				INFOPLIST_FILE = "Uber App For Driver/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.eservicegroup.Uber-App-For-Driver";
@@ -557,6 +559,7 @@
 			baseConfigurationReference = 5A71CAB76E6300BEF81E8306 /* Pods-Uber App For Driver.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = EL32Q32JDW;
 				INFOPLIST_FILE = "Uber App For Driver/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.eservicegroup.Uber-App-For-Driver";

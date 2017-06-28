@@ -73,6 +73,7 @@ class UberHandler {
             if let data = snapshot.value as? NSDictionary {
                 if let name = data[Constants.NAME] as? String {
                     if name == self.driver {
+                        self.driver_id = snapshot.key;
                         self.delegate?.uberCanceled();
                     }
                 }
